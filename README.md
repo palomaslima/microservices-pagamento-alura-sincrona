@@ -9,12 +9,14 @@ Microserviço que controla todos os pagamentos dos pedidos, possui um crud para 
 
 Todos os microserviços são cadastrados no Eureka Server e possuem um gateway para tudo ficar em uma mesma url para requisição.
 
-Java 17 com Maven
-Springboot
-Lombok para Getters,Setters
-JPA para conexão com banco de dados
-MySQL
-FlyWay para versionamento de banco de dados
-Feign Client para comunicação síncrona entre microserviços
-Resilience4J com CircuitBreaker e Fallback para tolerância a falhas
+<ul>
+<li>Java 17 com Maven</li>
+<li>Springboot/li>
+<li>Lombok para Getters,Setters/li>
+<li>JPA para conexão com banco de dados/li>
+<li>MySQL/li>
+<li>FlyWay para versionamento de banco de dados/li>
+<li>Feign Client para comunicação síncrona entre microserviços/li>
+<li>Resilience4J com CircuitBreaker e Fallback para tolerância a falhas/li>
+</ul>
 
